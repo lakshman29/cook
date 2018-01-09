@@ -4,7 +4,7 @@ spring:
     name: cook
 # code_snippet springApplicationName end
 
-secretMenu: Animal Crackers
+secretMenu: Animal 
 
 encrypt:
   keyStore:
